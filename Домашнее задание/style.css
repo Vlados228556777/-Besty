@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+   .sussy-line{
+   width: 50%;
+    height: 4px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    background-color: purple;
+}
+.sussy-article{
+    text-align: center;
+    color: darkslategrey;
+}
+body{
+    background-image: url(img/вася.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    padding: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+form{
+    width: 50%;
+    margin: 30px auto auto auto;
+    border-radius: 15px;
+    padding: 30px;
+    background-color: purple;
+    color: darkslategray;
+}
+.sussy-fields input{
+    width: 90%;
+    margin-left: 5% ;
+    margin-top: 10px ;
+    padding: 6px;
+    color: black ;
+    text-align: center;
+    border: none;
+    background-color: white;
+    }
+    label{
+        width: 50%;
+        padding: 12px;
+        margin: 23px auto auto auto ;
+        font-size: 20px;
+        text-align: center;
+        display: block;
+    }
+    .aaaaaa{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    }
+    #sussy-pon{
+        display: inline-block;
+    }
+    button{
+        width: 95%;
+    background-color: yellow;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10%;
+    text-align: center;
+    border-radius: 15px;
+    border: none;
+    color: darkslategrey;
+    }
+    .sussy-lines{
+    background-color: yellow;
+    width: 50%;
+    height: 4px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 5px;  
+    }
